@@ -1,0 +1,1 @@
+http\://www.qbao.com/schema/rabbit=org.springframework.amqp.rabbit.config.RabbitNamespaceHandler
